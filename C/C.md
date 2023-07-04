@@ -1,4 +1,4 @@
-#c 
+# c 
 
 ## we have to learn : 
 
@@ -16,7 +16,7 @@
 # <span style='color : lightblue'>First statment</span> :
 
 ````c
-void main () {
+void main ( ) {
 printf("I am software eng");
 }
 ````
